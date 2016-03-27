@@ -13,12 +13,12 @@ Control
 While the book is being read you can use the following keys to
 control the reader.
 
-|Key|Description|
------------------
-|<space>|to toggle pause and play. Current sentence will be completed before pause or play.|
-|p      | print the text of the sentence currently being spoken|
-|s      | sentence number so that you can see how much is done.|
-|r      | remember this position and start from this the next time this book is read. If a position is specified, that will be used as a start point instead.|
+|Key    |Description
+--------|-------------
+|<space>|to toggle pause and play. Current sentence will be completed before pause or play.
+|p      | print the text of the sentence currently being spoken
+|s      | sentence number so that you can see how much is done.
+|r      | remember this position and start from this the next time this book is read. If a position is specified, that will be used as a start point instead.
 |q      | quit
 
 INFO
