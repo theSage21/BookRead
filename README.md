@@ -33,9 +33,9 @@ following format:
 Example
 -------
 
-`bkrd myfile.txt` reads the text in myfile.txt
-`bkrd myfile.txt 10` reads the text in myfile.txt starting at line 10
-`bkrd --help` displays this help and exits 
+`bkrd myfile.txt` reads the text in myfile.txt  
+`bkrd myfile.txt 10` reads the text in myfile.txt starting at line 10  
+`bkrd --help` displays this help and exits  
 
 Files Generated
 ---------------
