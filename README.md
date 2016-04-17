@@ -1,5 +1,7 @@
 # BookRead
 
+*Notice* This has been merged with [reimagined-chainsaw](https://github.com/theSage21/reimagined-chainsaw)
+
 Espeak Manager for reading plaintext books
 
 USAGE
